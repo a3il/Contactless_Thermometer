@@ -11,9 +11,8 @@ THE project is a simple solution that will add an accurate thermal screening fea
 
 There are two arduinos used,they communicate by i2c.
 
-CODE,Circuit,and circuit is attached.
+CODE,Circuit,and app APK is attached.
 
-#circuitisattached.
 
 
 ![PCB Lidar jpg](https://user-images.githubusercontent.com/111580618/186912663-aa146648-729a-4b36-9abc-329231a49332.jpg)
